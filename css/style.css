@@ -13,7 +13,7 @@ body, html {
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
-  background-image: images/white-wood.jpg;
+  background-image: url("images/white-wood.jpg");
 }
 
 h4 {
